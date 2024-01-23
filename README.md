@@ -1,5 +1,30 @@
-# Getting Started with Create React App
+![logo](https://github.com/tulika1508/MoviesX/assets/97580039/7dec682b-7f72-4ee6-ae67-e1f1200ed7b9)
 
+# XMovies-Your ultimate Movies and TV Show platform
+
+### **Welcome to the MoviesX!**
+
+A Movies and TV shows platform created to entertain the users according to their choice of genre.It is an web application developed using ReactJS,Redux-toolkit and others that empowers users to explore shows accoring to their choice.
+
+## 👉 Features
+**->** Smart login and signup feature added using firebase authentication.
+
+**->** Fetching the movies from TMDB API according to the genre specification.
+
+**->** Discover trending films,watch them at your comfort,manage favorite list and search for your desired movie.
+
+## 👉 Tech-Stacks
+
+This project uses several cutting-edge technologies:
+
+**-> React.js**: A powerful JavaScript library renowned for its efficiency and flexibility in building interactive user interfaces.React provides a robust foundation for developing a dynamic and responsive user experience.
+
+**->Redux Toolkit**: Redux Toolkit is used for writing redux code but in a more concise way. Redux Toolkit (RTK) solves problems that most of the developer's face who used redux in a react application. 
+
+**->Firebase authentication**: Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to the app.It is used here for login and signup.
+
+
+# Getting Started with the app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
