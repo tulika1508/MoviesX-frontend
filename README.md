@@ -2,7 +2,7 @@
 
 # XMovies-Your ultimate Movies and TV Show platform
 
-## **Welcome to the MoviesX!**
+## **Welcome to the XMovies!**
 
 **LIVE AT::** https://xmovies-frontend.vercel.app/ 
 
