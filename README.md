@@ -2,7 +2,9 @@
 
 # XMovies-Your ultimate Movies and TV Show platform
 
-### **Welcome to the MoviesX!**
+## **Welcome to the MoviesX!**
+
+**LIVE AT::** https://xmovies-frontend.vercel.app/ 
 
 A Movies and TV shows platform created to entertain the users according to their choice of genre.It is an web application developed using ReactJS,Redux-toolkit and others that empowers users to explore shows accoring to their choice.
 
