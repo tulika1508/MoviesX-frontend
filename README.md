@@ -1,10 +1,18 @@
-![logo](https://github.com/tulika1508/MoviesX/assets/97580039/7dec682b-7f72-4ee6-ae67-e1f1200ed7b9)
+<div align=center>
+  <img src="https://github.com/tulika1508/MoviesX/assets/97580039/7dec682b-7f72-4ee6-ae67-e1f1200ed7b9)">
+</div>
+<br>
+<div align=center>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=black&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Redux_TOOLKIT-black?style=for-the-badge&logoColor=white&logo=redux&color=61DAFB" alt="redux-toolkit"/>
+</div>
 
 # XMovies-Your ultimate Movies and TV Show platform
 
 ## **Welcome to the XMovies!**
 
-**LIVE AT::** https://xmovies-frontend.vercel.app/ 
+**LIVE AT:-**   https://xmovies-frontend.vercel.app/ 
 
 A Movies and TV shows platform created to entertain the users according to their choice of genre.It is an web application developed using ReactJS,Redux-toolkit and others that empowers users to explore shows accoring to their choice.
 
